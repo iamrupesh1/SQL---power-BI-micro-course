@@ -35,3 +35,16 @@ I’ve successfully completed the 30-Day Micro Courses for *SQL* and *Power BI, 
 ---
 
 ## 📂 Repository Structure
+
+## 📊 Dataset Used
+
+A simple sales dataset (simple-sales-data.csv) is included in the /datasets folder.
+
+This dataset contains basic sales records such as:
+- Product names
+- Categories
+- Regions
+- Sales amount
+- Dates
+
+It is used to build beginner-friendly dashboards in Power BI to practice data visualization and storytelling.
